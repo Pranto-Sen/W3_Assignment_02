@@ -33,6 +33,8 @@ This project is an interactive, mobile-friendly web application built using HTML
 - Persists across page reloads.
 
 
-
-
-
+![Screenshot from 2024-07-15 17-13-55](https://github.com/user-attachments/assets/7c9c37de-0e31-4251-901f-48d73e1dc6f7)
+![Screenshot from 2024-07-15 17-14-02](https://github.com/user-attachments/assets/4117c527-081e-4fcc-afd1-60d4fff6f216)
+![Screenshot from 2024-07-15 17-14-08](https://github.com/user-attachments/assets/b56e8eb0-3765-4026-8598-238d29e6a4b3)
+![Screenshot from 2024-07-15 17-14-15](https://github.com/user-attachments/assets/00474e95-baf8-4a87-8cab-16d2b1bdb6d9)
+![Screenshot from 2024-07-15 17-14-27](https://github.com/user-attachments/assets/20792714-ba44-4c9d-8fa9-f8859027fbf2)
