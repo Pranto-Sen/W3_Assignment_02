@@ -12,13 +12,11 @@ This project is an interactive, mobile-friendly web application built using HTML
 
 ### Calendar
 - Date picker for check-in and check-out.
-- Highlights the selected date range.
 - Prevents illogical selections (e.g., check-out before check-in).
 - Updates the main search bar with the chosen dates.
 
 ### Guest Selection
 - Dropdown menu to add/remove different guest types.
-- Enforces guest limits if applicable.
 - Updates the main search bar with the total guest count.
 
 ### Image Gallery
@@ -33,7 +31,6 @@ This project is an interactive, mobile-friendly web application built using HTML
 ### Favorite Feature
 - Toggle heart icon to favorite/unfavorite a listing.
 - Persists across page reloads.
-- Possible separate view for favorited listings.
 
 
 
